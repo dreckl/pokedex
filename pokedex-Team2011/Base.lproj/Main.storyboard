@@ -456,7 +456,7 @@
                         <outlet property="nextEvoImg" destination="1bF-Mj-WDq" id="f0i-mi-e7O"/>
                         <outlet property="pokedexLbl" destination="XcL-bE-gze" id="D7p-Mw-wV4"/>
                         <outlet property="typeLbl" destination="Cve-it-L7O" id="Ep5-7g-MhH"/>
-                        <outlet property="weightLbl" destination="AB1-5E-XwJ" id="XUq-R7-XJ3"/>
+                        <outlet property="weightLbl" destination="OsF-ok-ehN" id="6iX-NZ-iWG"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wve-us-2Z5" userLabel="First Responder" sceneMemberID="firstResponder"/>
